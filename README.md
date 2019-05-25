@@ -54,7 +54,6 @@ Equalizer + Pro (Android) 汉化
 |类型|格式|
 |--|--
 |已修改版本|*[应用名](#equalizer--pro-android-汉化)* + `_` + *[翻译为语言](#翻译信息)* + `_` + `v` + *[版本号](#equalizer--pro-android-汉化)* + `_` + *[翻译更新日期](#翻译信息)*
-|未修改版本|*[应用名](#equalizer--pro-android-汉化)* + `_` + `v` + *[版本号](#equalizer--pro-android-汉化)*
 
 发布地
 ------
