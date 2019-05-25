@@ -1,48 +1,44 @@
-VNC Viewer (Android) 汉化
+Equalizer (Android) 汉化
 ===========================
-为`VNC Viewer`倾情制作的汉化版本，侧栏菜单帮助等地都已经汉化，可~~放心食用~~。
+在手机乐园里帮用户汉化的应用，纯机器翻译。
 ****
 |类型|内容|
 |--|--
 |图标|![](res/drawable-xxxhdpi-v4/icon.png)
-|应用名|VNC Viewer
-|包名|com.realvnc.viewer.android
+|应用名|Equalizer
+|包名|com.djit.equalizerplusforandroidpro
 |语言|英语
-|版本号|3.5.0.40825
-|开发者|[RealVNC Limited](https://www.realvnc.com)
-|更新日期|2019 年 3 月 26 日
-|体积|12M
+|版本号|2.8.0
+|开发者|[MWM - Best free music and audio apps for Android](http://equalizerpl.us/)
+|更新日期|2017 年 10 月 13 日
+|体积|4.62 MB
 ****
 应用市场
 ------
 |市场|地址|
 |--|--
-|Google Play (官方)|https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
-|应用宝|https://sj.qq.com/myapp/detail.htm?apkName=com.realvnc.viewer.android
-|酷安|http://coolapk.com/apk/com.realvnc.viewer.android
-|手机乐园|https://soft.shouji.com.cn/down/85796.html
+|Google Play (官方)|https://play.google.com/store/apps/details?id=com.djit.equalizerplusforandroidpro
+|应用宝|https://sj.qq.com/myapp/detail.htm?apkName=com.djit.equalizerplusforandroidpro
+|酷安|https://www.coolapk.com/apk/com.djit.equalizerplusforandroidpro
+|手机乐园|https://soft.shouji.com.cn/down/27397.html
 
 翻译信息
 ------
 |类型|内容|
 |--|--
 |语言|中文简体 (汉语)
-|体积|12.43M
-|更新日期|2019 年 5 月 23 日
+|体积|4.37 MB
+|更新日期|2017 年 7 月 23 日
 |主要翻译人员|润智RZ ([@w311ang](https://github.com/w311ang))
-|类型|Google 翻译 + 个人修改
+|类型|机器翻译
 
-*以上均是修改后由`MT 管理器`取得的数据。*
+*以上均是修改后的数据。*
 
 翻译进度
 ------
 |部分|完成情况|备注
 |--|--|--
 |主界面|:heavy_check_mark: 已完成|-
-|HTML 帮助|:heavy_check_mark: 已完成|-
-|电脑操控界面|:heavy_check_mark: 已完成|-
-|连接界面|:x: 未完成 (95%)|有一些字符串找不到翻译点，请求高人指点。
-|通知|:heavy_check_mark: 已完成|-
 
 MT 管理器字典
 ------
