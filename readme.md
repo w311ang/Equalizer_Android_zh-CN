@@ -65,13 +65,14 @@ MT 管理器字典
 ------
 |论坛|贴子标题/摘要|
 |--|:--:
-|酷安|- 暂无 -
-|手机乐园|[@云乐_润智 有什么需要汉化的软件吗？](http://tt.shouji.com.cn/app/faxianshow.jsp?id=1219507)
-|葫芦侠 3 楼|- 暂无 -
-|百度贴吧|- 暂无 -
-|吾爱论坛|- 暂无 -
-|Bilibili|- 暂无 -
-|官方 QQ 群|- 暂无 -
+|[酷安](https://www.coolapk.com/)|- 暂无 -
+|[手机乐园](http://shouji.com.cn)|[@云乐_润智 有什么需要汉化的软件吗？……](http://tt.shouji.com.cn/app/faxianshow.jsp?id=1219507)
+|[葫芦侠 3 楼](http://huluxia.com/)|- 暂无 -
+|[全下世界](http://www.iqxsj.com/)|- 暂无 -
+|[百度贴吧](https://tieba.baidu.com/)|- 暂无 -
+|[吾爱论坛](https://www.52pojie.cn/)|- 暂无 -
+|[Bilibili](https://www.bilibili.com/)|- 暂无 -
+|[官方 QQ 群](https://jq.qq.com/?_wv=1027&k=5P36jkG)|- 暂无 -
 
 免责声明
 ------
