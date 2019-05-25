@@ -48,8 +48,8 @@ MT 管理器字典
 
 下载地址
 ------
-|存储方式|更新日期|备注|
-|--|--|--
+|存储方式|备注|
+|--|--
 |[GitHub](https://github.com/yunles/VNC-Viewer-Android-chinese/releases/download/2019.05.23/VNC_Viewer_20190523.apk)|推荐，更新速度较快，国内用户下载速度较慢。
 |[蓝奏云](https://www.lanzous.com/b743556/) (密码: `eiyd`)|更新速度不如前者，但下载速度更快。
 |[百度网盘](https://pan.baidu.com/s/1x8wMq2xPjH8CE0dpxAPmTQ) (密码: `yunl`)|可保存到自己网盘收藏备用。
