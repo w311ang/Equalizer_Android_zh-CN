@@ -1,11 +1,11 @@
-Equalizer (Android) 汉化
+Equalizer + Pro (Android) 汉化
 ===========================
 在手机乐园里帮用户汉化的应用，纯机器翻译。
 ****
 |类型|内容|
 |--|--
 |图标|![](res/drawable-xxxhdpi-v4/icon.png)
-|应用名|Equalizer
+|应用名|Equalizer + Pro
 |包名|com.djit.equalizerplusforandroidpro
 |语言|英语
 |版本号|2.8.0
