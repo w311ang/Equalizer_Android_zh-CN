@@ -4,7 +4,7 @@ Equalizer + Pro (Android) 汉化
 ****
 |类型|内容|
 |--|--
-|图标|![](res/drawable-xxxhdpi-v4/icon.png)
+|图标|![](res/mipmap-xxxhdpi-v4/ic_launcher.png)
 |应用名|Equalizer + Pro
 |包名|com.djit.equalizerplusforandroidpro
 |语言|英语
