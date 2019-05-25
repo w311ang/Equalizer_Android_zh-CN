@@ -18,6 +18,8 @@ Equalizer + Pro (Android) 汉化
 |市场|地址|
 |--|--
 |Google Play (官方)|https://play.google.com/store/apps/details?id=com.djit.equalizerplusforandroidpro
+|APKPure|https://apkpure.com/cn/com.djit.equalizerplusforandroidpro
+|豌豆荚|https://www.wandoujia.com/apps/com.djit.equalizerplusforandroidpro
 |应用宝|https://sj.qq.com/myapp/detail.htm?apkName=com.djit.equalizerplusforandroidpro
 |酷安|https://www.coolapk.com/apk/com.djit.equalizerplusforandroidpro
 |手机乐园|https://soft.shouji.com.cn/down/27397.html
