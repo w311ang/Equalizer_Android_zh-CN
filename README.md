@@ -60,7 +60,7 @@ Equalizer + Pro (Android) 汉化
 |论坛|贴子标题/摘要|
 |--|:--:
 |[酷安](https://www.coolapk.com/)|- 暂无 -
-|[手机乐园](http://shouji.com.cn)|[@云乐_润智 有什么需要汉化的软件吗？……](http://tt.shouji.com.cn/app/faxianshow.jsp?id=1219507)
+|[手机乐园](http://shouji.com.cn)|[有什么需要汉化的软件吗？……](http://tt.shouji.com.cn/app/faxianshow.jsp?id=1219507)
 |[葫芦侠 3 楼](http://huluxia.com/)|- 暂无 -
 |[全下世界](http://www.iqxsj.com/)|- 暂无 -
 |[百度贴吧](https://tieba.baidu.com/)|- 暂无 -
