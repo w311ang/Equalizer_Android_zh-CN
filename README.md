@@ -12,6 +12,7 @@ Equalizer + Pro (Android) 汉化
 |开发者|[MWM - Best free music and audio apps for Android](http://equalizerpl.us/)
 |更新日期|2017 年 10 月 13 日
 |体积|4.62 MB
+>本项目所出现的`语言`类型均遵守[`语言代码表`](http://www.lingoes.cn/zh/translator/langcode.htm)的语言代码格式。
 ****
 应用市场
 ------
