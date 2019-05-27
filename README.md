@@ -7,7 +7,7 @@ Equalizer + Pro (Android) 汉化
 |图标|![](res/mipmap-xxxhdpi-v4/ic_launcher.png)
 |应用名|Equalizer + Pro
 |包名|com.djit.equalizerplusforandroidpro
-|语言|en-GB `英语(英国)`
+|语言|en `英语`
 |版本号|2.8.0
 |开发者|[MWM - Best free music and audio apps for Android](http://equalizerpl.us/)
 |更新日期|2017 年 10 月 13 日
